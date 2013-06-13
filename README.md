@@ -5,7 +5,7 @@ Ocean Wave Effector for CINEMA 4D
 
 ![Ocean Wave Screenshot](https://raw.github.com/CreativeTools/ct-ocean-waves/master/screenshot.png)
 
-###[Video](https://vimeo.com/65721379)
+###[Video](https://vimeo.com/68281123)
 
 ###Note
 
