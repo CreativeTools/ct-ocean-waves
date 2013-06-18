@@ -7,10 +7,12 @@ Ocean Wave Effector for CINEMA 4D
 
 ###[Video](https://vimeo.com/68281123)
 
+###Contributions
+Thanks to Yura Izmaylov for porting the script to C4D R13
+
 ###Note
 
 Note that this script only works with CINEMA 4D-versions _Studio_ and _Broadcast_.
-It has only been tested in CINEMA 4D R14.
 
 ##File contents
 
